@@ -330,3 +330,7 @@ You now have a clean, reusable, fixed navigation bar with a live clock and custo
 Edit icons/paths once in the template; on each view, you only pass `active_path`.
 
 Happy dashboarding! 🎉
+
+![Dashboard Menu Example](dash1.jpg)
+![Dashboard Menu Example](dash2.jpg)
+![Dashboard Menu Example](dash3.jpg)
