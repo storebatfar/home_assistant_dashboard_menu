@@ -64,8 +64,9 @@ decluttering_templates:
     card:
       type: custom:mod-card
       card_mod:
+      class: bottom-menu
         style: |
-          :host {
+          :host(.bottom-menu) {
             /* --- Positioning --- */
             position: fixed;
             z-index: 2;
